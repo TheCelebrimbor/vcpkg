@@ -1,0 +1,5 @@
+Source: spdlogw
+Version: 1.0.1
+Homepage: https://github.com/gabime/spdlog
+Description: Very fast, header only, C++ logging library
+Build-Depends: fmt
